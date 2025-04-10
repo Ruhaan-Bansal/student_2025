@@ -87,5 +87,4 @@ Cybersecurity will only grow in relevance, especially as technology advances rap
 
 ### <span style="color:#0ea5e9;">cyb3rc30</span>
 
-<img src="https://github.com/user-attachments/assets/1dea4c20-3052-4abb-b665-c1afa2889124" alt="Cybersecurity Panel Photo" width="600" height="400" />
 
