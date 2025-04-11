@@ -111,4 +111,4 @@ Cyber is only going to grow—especially as we rely more on AI, healthcare IT, a
 
 If you attended the panel, don’t forget to use the **student credit code**: cyb3rc30
 
-<img alt ="CYBER" src="https://github.com/user-attachments/assets/eccdd310-23fe-4253-adef-c0c3c0af3836" width="300" height="400" >
+<img alt ="CYBER" src="https://github-production-user-asset-6210df.s3.amazonaws.com/188914346/432941591-eccdd310-23fe-4253-adef-c0c3c0af3836.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250411%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250411T205710Z&X-Amz-Expires=300&X-Amz-Signature=db8c893d5261a163573c6cb37b332eaa2dc7ebe092c6d00ec0a6729eed6c6d70&X-Amz-SignedHeaders=host" width="300" height="400" >
