@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Click the Circle Game</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+
+    #gameArea {
+      position: relative;
+      width: 600px;
+      height: 400px;
+      margin: 50px auto;
+      background-color: white;
+      border: 2px solid #333;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .circle {
+      width: 50px;
+      height: 50px;
+      background-color: crimson;
+      border-radius: 50%;
+      position: absolute;
+      cursor: pointer;
+    }
+
+    #score, #timer {
+      font-size: 24px;
+      margin: 10px;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎯 Click the Circle!</h1>
+  <div id="score">Score: 0</div>
+  <div id="timer">Time Left: 30s</div>
+  <div id="gameArea">
+    <div class="circle" id="circle"></div>
+  </div>
+  <button onclick="startGame()">Start Game</button>
+
+  <script>
+    const circle = document.getElementById('circle');
+    const gameArea = document.getElementById('gameArea');
+    const scoreDisplay = document.getElementById('score');
+    const timerDisplay = document.getElementById('timer');
+
+    let score = 0;
+    let timeLeft = 30;
+    let gameInterval;
+    let timer;
+
+    function moveCircle() {
+      const maxX = gameArea.clientWidth - circle.clientWidth;
+      const maxY = gameArea.clientHeight - circle.clientHeight;
+      const randomX = Math.floor(Math.random() * maxX);
+      const randomY = Math.floor(Math.random() * maxY);
+      circle.style.left = `${randomX}px`;
+      circle.style.top = `${randomY}px`;
+    }
+
+    function startGame() {
+      score = 0;
+      timeLeft = 30;
+      scoreDisplay.textContent = "Score: 0";
+      timerDisplay.textContent = "Time Left: 30s";
+      moveCircle();
+
+      circle.onclick = () => {
+        score++;
+        scoreDisplay.textContent = "Score: " + score;
+        moveCircle();
+      };
+
+      gameInterval = setInterval(moveCircle, 800);
+      timer = setInterval(() => {
+        timeLeft--;
+        timerDisplay.textContent = "Time Left: " + timeLeft + "s";
+        if (timeLeft <= 0) {
+          clearInterval(gameInterval);
+          clearInterval(timer);
+          circle.onclick = null;
+          alert("⏰ Time's up! Your final score is " + score);
+        }
+      }, 1000);
+    }
+  </script>
+
+</body>
+</html>
