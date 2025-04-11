@@ -1,90 +1,114 @@
-<h1 style="color:#3b82f6;">Cybersecurity Panel Summary</h1>
+---
+layout: page 
+title: Cybersecurity Expert Panel
+description: Cybersecurity Panel Notes
+permalink: /cyber/
+---
+# Cybersecurity Panel Summary
 
-## <span style="color:#6366f1;">1. Cybersecurity Landscape</span>
+## 1. Cybersecurity Landscape
 
-Cybersecurity is a rapidly evolving field with increasing threats and global implications.
+Cybersecurity is a fast-growing, high-stakes field. The threats are evolving rapidly, and the stakes are higher than ever.
 
-### <span style="color:#0ea5e9;">Key Threats</span>
-- <strong style="color:#ef4444;">Ransomware</strong>: The most significant threat today. Cybercriminals—including nation-states like China—use ransomware to steal hundreds of millions of dollars.
-- <strong>AI-Powered Attacks</strong>: AI is now used to launch more sophisticated and scalable cyber attacks.
-- <strong>Phishing</strong>: A top threat to businesses and individuals, phishing uses deceptive emails and websites to steal sensitive data.
-- <strong>Zero-Day Vulnerabilities</strong>: Security flaws unknown to software vendors or the public, making them highly dangerous.
-- <strong>Backdoors</strong>: Hidden methods that bypass normal authentication to allow unauthorized access.
-- <strong>Encrypted Ransom</strong>: Attackers encrypt an organization’s data and demand payment to restore access.
-- <strong>Ethical Challenges</strong>: Professionals must balance strong security with privacy, transparency, and accountability.
+### 🔹 Key Threats
+- **Ransomware**  
+  One of the most damaging forms of cyberattacks. Bad actors—including foreign nations—use it to steal millions.
+  
+- **AI-Powered Attacks**  
+  AI is increasingly used to automate and scale cyber threats, making them faster and harder to detect.
 
-### <span style="color:#0ea5e9;">Core Concepts</span>
-- <strong>Integrity</strong>: Ensuring data is accurate and hasn’t been tampered with.
-- <strong>Types of Cyber Attacks</strong>:
-  - Malware
-  - AI-driven exploits
-  - Phishing
-  - Social engineering
-  - Exploits of outdated or unpatched software
+- **Phishing**  
+  One of the most common ways hackers trick users into giving up passwords and sensitive info.
+
+- **Zero-Day Vulnerabilities**  
+  Unknown software flaws with no patch available. These are serious risks because they can be exploited before anyone knows.
+
+- **Backdoors**  
+  Hidden methods that allow unauthorized access to systems without normal authentication.
+
+- **Encrypted Ransom**  
+  Hackers encrypt sensitive data and demand high payouts to unlock it.
+
+- **Ethical Dilemmas**  
+  Cybersecurity isn't just technical—it's also about privacy, transparency, and protecting rights.
 
 ---
 
-## <span style="color:#6366f1;">2. Career Opportunities in Cybersecurity</span>
+## 2. Career Opportunities in Cybersecurity
 
-Cybersecurity offers diverse and meaningful career paths—technical, investigative, and strategic.
+Cybersecurity offers exciting, mission-driven careers with huge growth potential.
 
-### <span style="color:#0ea5e9;">Insights & Lessons</span>
-- <strong>Become a Digital Detective</strong>: Tracking cybercriminals can be exciting and impactful.
-- <strong>Follow Your Passion</strong>: Even if it seems boring at first, many grow to love cybersecurity with hands-on experience.
-- <strong>Relevant Education</strong>:
-  - Pursue a degree in <strong>Information Technology (IT)</strong> or <strong>Computer Science</strong>.
-  - Gain real-world experience by building and hacking your own network.
-- <strong>Start Early</strong>:
-  - Practice ethical hacking.
-  - Learn how systems are breached and secured.
-- <strong>Business Value</strong>:
-  - Educate business leaders on the importance of investing in cybersecurity.
-  - Even small companies are now realizing the cost of ignoring it.
-- <strong>Adaptability</strong>:
-  - One panelist stressed the importance of being open to learning quickly, especially in unfamiliar situations.
+### 💡 Insights & Lessons
+- **Be a Digital Detective**  
+  Track down cybercriminals, help protect people and systems, and solve real-world problems.
 
----
+- **Grow Your Passion**  
+  It may seem dry at first, but hands-on work often sparks passion and curiosity.
 
-## <span style="color:#6366f1;">3. Future of Cybersecurity</span>
+- **Start with IT**  
+  Studying **Information Technology** or **Computer Science** is a great foundation.
 
-Cybersecurity will only grow in relevance, especially as technology advances rapidly.
+- **Hack Your Own Network**  
+  Build your own environment and learn by trying to break and defend it (ethically!).
 
-### <span style="color:#0ea5e9;">Trends & Predictions</span>
-- <strong>AI Will Dominate</strong>: Both in terms of threats and solutions. Specialists in AI-focused security will be in demand.
-- <strong>Healthcare IT</strong>: Expected to see the most growth in cybersecurity over the next 5–10 years.
-- <strong>Wider Adoption</strong>:
-  - Large companies already prioritize cybersecurity.
-  - Small and medium businesses are starting to catch up.
-- <strong>Constant Innovation</strong>:
-  - New tools and threats emerge constantly.
-  - Professionals often work late into the night to stay ahead.
-- <strong>Coding & Creativity</strong>:
-  - A passion for coding and curiosity outside the job is important for long-term success.
+- **Business Leaders Need You**  
+  Many small-to-mid businesses still neglect cybersecurity—this is an opportunity to educate and protect.
+
+- **Stay Humble, Learn Fast**  
+  One panelist emphasized: be ready to enter unfamiliar environments and pick things up quickly.
 
 ---
 
-## <span style="color:#6366f1;">Key Takeaways</span>
+## 3. The Future of Cybersecurity
 
-### <span style="color:#0ea5e9;">Vulnerable Targets</span>
+Cyber is only going to grow—especially as we rely more on AI, healthcare IT, and digital tools.
+
+### 🔮 Trends
+- **AI is Central**  
+  From creating threats to defending against them—understanding AI is becoming essential.
+
+- **Healthcare is a Hotspot**  
+  Expect more cybersecurity demand in hospitals, insurance systems, and health data platforms.
+
+- **Wider Adoption**  
+  Big companies already invest heavily; smaller ones are catching up—creating a growing job market.
+
+- **Breakthrough Culture**  
+  New tools and vulnerabilities are discovered constantly—expect long hours and fast-paced learning.
+
+- **Coding Passion is Key**  
+  Even if you're not the best coder, curiosity and persistence matter more than perfection.
+
+---
+
+## ✅ Key Takeaways
+
+### Vulnerable Targets
 - Schools
 - Businesses
-- Healthcare organizations
-- Any system managing sensitive data
+- Healthcare systems
+- Any platform that handles sensitive or personal data
 
-### <span style="color:#0ea5e9;">Why Choose Cybersecurity?</span>
-- It's impactful: Prevent cybercrime and protect people’s data.
-- It’s exciting: Track digital criminals and solve complex problems.
-- It’s rewarding: Offers meaningful, well-paying career paths.
+### Why Choose Cybersecurity?
+- You help stop crime and protect people.
+- It's intellectually stimulating and constantly evolving.
+- There are great job prospects and salaries.
 
-### <span style="color:#0ea5e9;">Next Steps for Students</span>
-- Study <strong>Information Technology</strong> or <strong>Computer Science</strong>.
-- Learn about <strong>networking</strong>, <strong>operating systems</strong>, and <strong>ethical hacking</strong>.
-- Consider certifications such as:
+### Next Steps for Students
+- Major in **IT** or **Computer Science**
+- Learn fundamentals like:
+  - Networking
+  - Operating Systems
+  - Penetration Testing
+- Look into certifications:
   - CompTIA Security+
   - Certified Ethical Hacker (CEH)
   - CISSP
-## <span style="color:#6366f1;">Student Assignment Credit Code </span>
 
-### <span style="color:#0ea5e9;">cyb3rc30</span>
+---
 
+## 🎓 Student Credit Code
 
+If you attended the panel, don’t forget to use the **student credit code**: cyb3rc30
+
+<img alt ="CYBER" src="https://github-production-user-asset-6210df.s3.amazonaws.com/188914346/432532048-cea3357f-93d1-410f-a006-923dd8267db4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250410%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250410T232437Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=41c132158c6e3706aaaa1f353850af970d81e11d5c6c36e9db8401993d109ea1&amp;X-Amz-SignedHeaders=host" width="300" height="400" >
