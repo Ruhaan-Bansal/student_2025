@@ -110,5 +110,3 @@ Cyber is only going to grow—especially as we rely more on AI, healthcare IT, a
 ## 🎓 Student Credit Code
 
 If you attended the panel, don’t forget to use the **student credit code**: cyb3rc30
-
-<img width="317" alt="Image" src="https://github.com/user-attachments/assets/9e63b8d1-1194-4974-ac70-c4c138b1e901" />
